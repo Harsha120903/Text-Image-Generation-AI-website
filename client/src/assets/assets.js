@@ -27,6 +27,7 @@ export const assets = {
     twitter_icon,
     star_icon,
     rating_star,
+    sample,
     sample_img_1,
     sample_img_2,
     email_icon,
